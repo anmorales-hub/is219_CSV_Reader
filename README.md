@@ -1,2 +1,2 @@
 [![Build Status](https://www.travis-ci.com/anmorales-hub/is219_CSV_Reader.svg?branch=main)](https://www.travis-ci.com/anmorales-hub/is219_CSV_Reader)
-
+[![Coverage Status](https://coveralls.io/repos/github/anmorales-hub/is219_CSV_Reader/badge.svg?branch=main)](https://coveralls.io/github/anmorales-hub/is219_CSV_Reader?branch=main)

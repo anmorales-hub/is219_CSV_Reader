@@ -3,6 +3,7 @@ const fs = require('fs');
 
 
 class CSVReader{
+
     static Read(filename, Model) {
         const options = {
             columns: true,
